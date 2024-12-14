@@ -19,7 +19,7 @@ sudo apt install libgtkmm-4.0-dev
 ```
 pkg-config --modversion gtkmm-4.0
 ```
-#### Si tout est correctement installé, cette commande renverra la version de gtkmm-4, par exemple : 4.6.0.
+#### Si tout est correctement installé, cette commande renverra la version de gtkmm-4, par exemple : 4.10.0.
 
 ### Compiler un projet avec gtkmm-4
 ```
